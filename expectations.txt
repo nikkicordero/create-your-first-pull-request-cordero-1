@@ -1,2 +1,4 @@
 My expectations for the course CMSC 100 is to improve my skills in terms of
 remembering important commands for easy navigation as well as understand the importance of how files communicate with each other.
+
+I agree with your expectations
